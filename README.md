@@ -15,5 +15,5 @@ export GITLAB_RUNNER_TOKEN=XXXX
 export RUNNER_TAGS=prod
 export RUNNER_NAME=vps-prod-1
 
-curl -fsSL https://raw.githubusercontent.com/<yourname>/gitlab-runner-setup/main/setup-gitlab-runner.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nodax-hub/gitlab-runner-setup/main/setup-gitlab-runner.sh | bash
 ```
